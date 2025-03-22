@@ -21,7 +21,8 @@ spec:
         image: rithik2005/simplewebapp:latest
         ports:
         - containerPort: 7070
------------------------------------------------
+        
+---
 
 apiVersion: v1
 kind: Service
